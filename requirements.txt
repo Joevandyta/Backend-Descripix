@@ -1,0 +1,13 @@
+django
+djangorestframework
+djangorestframework-simplejwt
+dj-rest-auth
+django-allauth
+requests
+cryptography
+pillow
+python-decouple
+groq
+dotenv
+google-api-python-client
+pytz 

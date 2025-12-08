@@ -43,9 +43,6 @@ class UserManager(BaseUserManager):
         user.save(using=self._db)
         return user
     
-# AUTH_PROVIDERS = {'facebook': 'facebook', 'google': 'google',
-#                   'twitter': 'twitter', 'email': 'email'}
-
 def user_directory_path(instance, filename):
     ext = filename.split('.')[-1]
     slug = slugify(instance.username)
@@ -81,13 +78,3 @@ class User(AbstractBaseUser, PermissionsMixin):
             'access': str(refresh.access_token)
         }
     
-    # def save(self, *args, **kwargs):
-    #     try:
-    #         # Jika user sudah memiliki foto profil, hapus file lama sebelum update
-    #         old_user = User.objects.get(pk=self.pk)
-    #         if old_user.profile_img and old_user.profile_img != self.profile_img:
-    #             old_user.profile_img.delete(save=True)
-    #     except User.DoesNotExist:
-    #         pass  # Jika user baru, tidak ada file lama yang dihapus
-        
-        super().save(*args, **kwargs)

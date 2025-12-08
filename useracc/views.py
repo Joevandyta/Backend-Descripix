@@ -59,7 +59,6 @@ class GoogleSocialAuthView(APIView):
             status=status.HTTP_400_BAD_REQUEST
         )
     
-
 class CostumLoginTokenRefreshView(TokenRefreshView):
     def post(self, request, *args, **kwargs):
         response = super().post(request, *args, **kwargs)

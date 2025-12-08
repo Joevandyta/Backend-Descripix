@@ -1,0 +1,602 @@
+[
+  {
+    "input": [
+      "Author: Manto",
+      "Date Taken: July 5, 2024, 06:30",
+      "Location: 77V7+8CQ, Jl. Setapak, Sanur, South Denpasar, Bali",
+      "Device: Sony",
+      "Model: Alpha 7 III"
+    ],
+    "output": "Peaceful morning at Sanur Beach, Denpasar. Captured by Manto on July 5, 2024 using Sony Alpha 7 III."
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken: July 5, 2024, 06:30",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Peaceful morning at a beautiful beach, on July 5, 2024"
+  },
+  {
+    "input": [
+      "Author: Wawan",
+      "Date Taken: June 6, 2023, 13:15",
+      "Location: Jl. Pantai Kerobokan, Kerobokan, Sawan District, Buleleng Regency, Bali 81119",
+      "Device: Canon",
+      "Model: EOS 90D"
+    ],
+    "output": "Afternoon atmosphere at Kerobokan Beach, Buleleng with fishing boats that just returned. Captured by Wawan on June 6, 2023 using Canon EOS 90D."
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken:",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "A beach scene in the afternoon with calm blue sky and three fishing boats that just returned from catching fish"
+  },
+  {
+    "input": [
+      "Author: Wawan",
+      "Date Taken: ",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Wawan captures the beach atmosphere in the afternoon with calm blue sky and three fishing boats on the shoreline"
+  },
+  {
+    "input": [
+      "Author: Hanif",
+      "Date Taken: April 5, 2024, 08:10",
+      "Location: H79H+8P Tegallalang, Gianyar Regency, Bali",
+      "Device: Samsung",
+      "Model: "
+    ],
+    "output": "View of lush rice field area on clear morning sky on April 5, 2024 in Tegallalang, Gianyar, Bali using Samsung"
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken:",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "This cat is so cute!!"
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken:",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Sunset reminds me of someone"
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken:",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "A comfortable space where I can breathe peacefully"
+  },
+  {
+    "input": [
+      "Author: Andi",
+      "Date Taken: February 9, 2025, 08:30",
+      "Location: 2G8R+QX Dalisodo, Malang Regency, East Java",
+      "Device: Canon",
+      "Model: EOS 90D"
+    ],
+    "output": "A comfortable space where people can breathe peacefully, photographed by Andi in Dalisodo, Malang, East Java using Canon EOS 90D"
+  },
+  {
+    "input": [
+      "Author: Jovan",
+      "Date Taken: May 12, 2024, 19:05",
+      "Location: Singaraja, Bali",
+      "Device: Xiaomi",
+      "Model: Poco F4"
+    ],
+    "output": "Simple moments like eating together, captured by Jovan on May 12, 2024 at 19:05 at Warung Makan Sari Sedap, Singaraja, Bali using Xiaomi Poco F4"
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken: ",
+      "Location: C7FQ+VH Kemenuh, Gianyar Regency, Bali",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "The sound of waterfall and calming view in Gianyar, Bali."
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken: ",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "The sound of waterfall and calming scenery in the morning."
+  },
+  {
+    "input": [
+      "Author: Satria",
+      "Date Taken: December 20, 2023, 08:15",
+      "Location: Sekumpul Waterfall, Buleleng, Bali",
+      "Device: Sony",
+      "Model: Alpha 7 IV"
+    ],
+    "output": "The cold makes it fresh, waterfall scenery, captured by Satria on December 20, 2023 at 08:15 at Sekumpul Waterfall, Buleleng, Bali using Sony Alpha 7 IV."
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken: ",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Nostalgia with amazing atmosphere."
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken: ",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "sunset brings back many memories."
+  },
+  {
+    "input": [
+      "Author: Hanif",
+      "Date Taken: April 5, 2024, 08:10",
+      "Location: H79H+8P Tegallalang, Gianyar Regency, Bali",
+      "Device: Samsung",
+      "Model: Galaxy S22"
+    ],
+    "output": "Hanif takes a picture of lush rice field area with clear sky on April 5, 2024 at 08:10 in Tegallalang, Gianyar, Bali using Samsung Galaxy S22"
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken: ",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "A comfortable space where I can breathe peacefully."
+  },
+  {
+    "input": [
+      "Author: Clara",
+      "Date Taken: May 21, 2024, 15:45",
+      "Location: P3WH+FM Munduk, Buleleng Regency, Bali",
+      "Device: Oppo",
+      "Model: "
+    ],
+    "output": "The beauty of waterfall in the mesmerizing mountains, captured by Clara on May 21, 2024 at 15:45 in Munduk, Buleleng, Bali using Oppo"
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken: May 21, 2024, 15:45",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "The beauty of waterfall in the mesmerizing mountains in the afternoon on May 21, 2024"
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken: July 10, 2024, 11:25",
+      "Location: 8727+WM Sanur, Denpasar, Bali",
+      "Device: Oppo",
+      "Model: Reno 10 Pro"
+    ],
+    "output": "Fun vacation at the swimming pool under the blazing sun on July 10, 2024 in Denpasar, Bali using Oppo Reno 10 Pro"
+  },
+  {
+    "input": [
+      "Author: Hartawan",
+      "Date Taken: July 10, 2024, 11:25",
+      "Location: ",
+      "Device: Oppo",
+      "Model: "
+    ],
+    "output": "Fun vacation at the swimming pool under the blazing sun on July 10, 2024, captured by Hartawan using Oppo Reno 10 Pro"
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken: ",
+      "Location: P3WH+FM Munduk, Buleleng Regency, Bali",
+      "Device: Oppo",
+      "Model: Reno 14"
+    ],
+    "output": "The beauty of waterfall in the mesmerizing mountains, in Munduk, Buleleng, Bali taken using Oppo Reno 14"
+  },
+  {
+    "input": [
+      "Author: Maya",
+      "Date Taken: ",
+      "Location: Seminyak, Badung, Bali",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Relaxed atmosphere at the outdoor concept hotel bathing area, captured by Maya in Badung, Bali"
+  },
+  {
+    "input": [
+      "Author: Clara",
+      "Date Taken: ",
+      "Location: P3WH+FM Munduk, Buleleng Regency, Bali",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "The beauty of waterfall in the mesmerizing mountains, in Munduk, Buleleng, Bali captured by Clara"
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken: ",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Let's swim in the pool first, buddy."
+  },
+  {
+    "input": [
+      "Author: Maya",
+      "Date Taken: August 28, 2024, 13:40",
+      "Location: Seminyak, Badung, Bali",
+      "Device: Sony",
+      "Model: Alpha 7 IV"
+    ],
+    "output": "Relaxed atmosphere at the outdoor concept hotel bathing area, captured by Maya on August 28, 2024 at 13:40 in Seminyak, Badung, Bali using Sony Alpha 7 IV"
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken: ",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Time to eat!!! Ramen."
+  },
+  {
+    "input": [
+      "Author: Sidd",
+      "Date Taken: ",
+      "Location: ",
+      "Device: Xiaomi",
+      "Model: Poco F5"
+    ],
+    "output": "Sidd photographs an apple in hand using Xiaomi Poco F5"
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken: August 28, 2024, 13:40",
+      "Location: ",
+      "Device: Sony",
+      "Model: Alpha 7 IV"
+    ],
+    "output": "Relaxed atmosphere at the outdoor concept hotel bathing area, captured on August 28, 2024 at 13:40 using Sony Alpha 7 IV"
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken: ",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Let's eat something delicious first, bro."
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken: April 14, 2024, 08:20",
+      "Location: Bangli, Bali, Indonesia",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Stream flow from higher ground with cool village atmosphere in the morning on April 14, 2024 in Bali, Indonesia"
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken: ",
+      "Location: Denpasar, Bali",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Comfortable café for doing assignments during the day in Denpasar, Bali"
+  },
+  {
+    "input": [
+      "Author: Bimo",
+      "Date Taken: July 7, 2024, 09:00",
+      "Location: Ubud, Gianyar, Bali",
+      "Device: Redmi",
+      "Model: "
+    ],
+    "output": "Bimo captures morning moments in a comfortable place on July 7, 2024 in Ubud, Gianyar, Bali using Redmi"
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken: ",
+      "Location: ",
+      "Device: Redmi",
+      "Model: "
+    ],
+    "output": "Morning in a comfortable place captured using Redmi"
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken: ",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "The most comfortable spot to gather with friends. Available seating area using iron chairs, soft sofas, to large capacity seating area"
+  },
+  {
+    "input": [
+      "Author: Jidan",
+      "Date Taken: ",
+      "Location: Canggu, Badung, Bali",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Jidan photographs a place with the most comfortable spot to gather with friends. Available seating area using iron chairs, soft sofas, to large capacity seating area in Canggu, Badung, Bali"
+  },
+  {
+    "input": [
+      "Author: Hartawan",
+      "Date Taken: August 3, 2024, 16:30",
+      "Location: Canggu, Badung, Bali",
+      "Device: Canon",
+      "Model: EOS 90D"
+    ],
+    "output": "The most comfortable spot to gather with friends with seating area using iron chairs, soft sofas, to large capacity seating area. Taken by Hartawan on August 3, 2024, 16:30 in Canggu, Badung, Bali using Canon EOS 90D"
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken: September 12, 2024, 07:50",
+      "Location: Kintamani, Bangli, Bali",
+      "Device: Nikon",
+      "Model: D7500"
+    ],
+    "output": "Fresh oranges just picked from the tree in the morning on September 12, 2024 in Kintamani, Bangli, Bali using Nikon D7500"
+  },
+  {
+    "input": [
+      "Author: Rin",
+      "Date Taken: October 25, 2024, 10:15",
+      "Location: ",
+      "Device: Oppo",
+      "Model: "
+    ],
+    "output": "This fruit looks like it was just picked from the tree, captured by Rin on October 25, 2024 using Oppo"
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken: ",
+      "Location: V3PH+3V Singaraja, Buleleng Regency, Bali",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "An apple in hand in Singaraja, Buleleng, Bali"
+  },
+  {
+    "input": [
+      "Author: Rin",
+      "Date Taken: October 25, 2024, 10:15",
+      "Location: W459+27 Penarukan, Buleleng Regency, Bali",
+      "Device: Oppo",
+      "Model: "
+    ],
+    "output": "This fruit looks like it was just picked from the tree, captured by Rin on October 25, 2024 in Penarukan, Buleleng, Bali using Oppo"
+  },
+  {
+    "input": [
+      "Author: Rehan",
+      "Date Taken: January 18, 2025, 12:40",
+      "Location: 86C3+3F Dauh Puri Kauh, Denpasar City, Bali",
+      "Device: Samsung",
+      "Model: "
+    ],
+    "output": "Ramen that has been served and the drink ready to be enjoyed during the day on January 18, 2025 in Denpasar, Bali using Samsung photographed by Rehan"
+  },
+  {
+    "input": [
+      "Author: Satria",
+      "Date Taken: January 18, 2024, 18:10",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Sunset photographed by Satria on January 18, 2024"
+  },
+  {
+    "input": [
+      "Author: Satria",
+      "Date Taken: January 18, 2024, 18:10",
+      "Location: W499+7C Kerobokan, Buleleng Regency, Bali",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Sunset at the beach in Kerobokan area, Buleleng, Bali photographed by Satria on January 18, 2024"
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken: ",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Swimming at the edge, refreshing time friends"
+  },
+  {
+    "input": [
+      "Author: Damar",
+      "Date Taken: August 2, 2024, 20:30",
+      "Location: P987+WP Central Batur, Bangli Regency, Bali",
+      "Device: Samsung",
+      "Model: "
+    ],
+    "output": "A couple enjoying the beauty of the night on August 2, 2024 in Batur, Bangli, Bali. Photographed by Damar using Samsung"
+  },
+  {
+    "input": [
+      "Author: Sinta",
+      "Date Taken: May 3, 2024, 15:20",
+      "Location: P3WH+FM Munduk, Buleleng Regency, Bali",
+      "Device: Canon",
+      "Model: EOS 90D"
+    ],
+    "output": "Sinta finds a beautiful place after a long journey in the afternoon on May 3, 2024 in Munduk, Buleleng, Bali captured using Canon EOS 90D"
+  },
+  {
+    "input": [
+      "Author: Mulyono",
+      "Date Taken: May 3, 2024, 15:20",
+      "Location: ",
+      "Device: Canon",
+      "Model: "
+    ],
+    "output": "Mulyono photographs 2 cute cats using Canon camera on May 3, 2024"
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken: May 3, 2024, 15:20",
+      "Location: P3WH+FM Munduk, Buleleng Regency, Bali",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Finding a beautiful place after a long journey in the afternoon on May 3, 2024 in Munduk, Buleleng, Bali"
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken: June 14, 2024, 09:10",
+      "Location: Tabanan, Bali",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Nature is indeed the best in the morning on June 14, 2024 in Tabanan, Bali"
+  },
+  {
+    "input": [
+      "Author: Zilong",
+      "Date Taken: April 27, 2024, 08:45",
+      "Location: Bedugul, Tabanan, Bali",
+      "Device: Nikon",
+      "Model: "
+    ],
+    "output": "Clear water and fresh air in the morning on April 27, 2024 in Bedugul, Tabanan, Bali captured by Zilong using Nikon"
+  },
+  {
+    "input": [
+      "Author: Bambang",
+      "Date Taken: August 5, 2024, 17:50",
+      "Location: Sanur, Denpasar, Bali",
+      "Device: Oppo",
+      "Model: "
+    ],
+    "output": "Sunset between the colors of life and sky in the afternoon on August 5, 2024 in Sanur, Denpasar, Bali using Oppo"
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken: August 2, 2024, 20:30",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "A couple enjoying the beauty of the night on August 2, 2024"
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken: ",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "So beautiful, watching the sunset always makes me feel better"
+  },
+  {
+    "input": [
+      "Author: Raka",
+      "Date Taken: September 2, 2024, 20:30",
+      "Location: Lovina, Buleleng, Bali",
+      "Device: Sony",
+      "Model: Alpha 7 IV"
+    ],
+    "output": "In the darkness of the calm sea at night, captured by Raka on September 2, 2024 in Lovina, Buleleng, Bali using Sony Alpha 7 IV"
+  },
+  {
+    "input": [
+      "Author: Raka",
+      "Date Taken: September 2, 2024, 20:30",
+      "Location: ",
+      "Device: Sony",
+      "Model: "
+    ],
+    "output": "In the darkness of the calm sea at night on September 2, 2024, captured by Raka using Sony"
+  },
+  {
+    "input": [
+      "Author: Damar",
+      "Date Taken: August 2, 2024, 20:30",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Damar captures a couple enjoying the beauty of the night on August 2, 2024"
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken: August 6, 2025, 12:15",
+      "Location: ",
+      "Device: Samsung",
+      "Model: Galaxy S24 Ultra"
+    ],
+    "output": "Relaxed moment enjoying delicious food during the day on August 6, 2025, captured using Samsung Galaxy S24 Ultra"
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken: ",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Let's eat casually first"
+  }
+]

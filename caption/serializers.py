@@ -22,6 +22,7 @@ class GenerateCaptionSerializer(serializers.Serializer):
     image = serializers.ImageField(required=True)
     language_code = serializers.CharField(required=False, allow_null=True)
     metadata = serializers.JSONField(required=False, allow_null=True)
+    style = serializers.CharField(required=False, allow_null=True)
 
 class SaveCaptionSerializer(serializers.Serializer):
     id = serializers.IntegerField(read_only=True)

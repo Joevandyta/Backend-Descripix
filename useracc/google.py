@@ -6,9 +6,7 @@ class Google:
 
     @staticmethod
     def validate(auth_token):
-        """
-        validate method Queries the Google oAUTH2 api to fetch the user info
-        """
+
         try:
             idinfo = id_token.verify_oauth2_token(auth_token, requests.Request())
             print("idinfo: ", idinfo)
@@ -18,4 +16,4 @@ class Google:
             
             return idinfo
         except:
-            return "The toukan token is either invalid or has expired"
+            return "The token is either invalid or has expired"

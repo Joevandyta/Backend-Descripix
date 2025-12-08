@@ -45,12 +45,12 @@ INSTALLED_APPS = [
     'rest_framework',
     'rest_framework.authtoken',
     'rest_framework_simplejwt.token_blacklist',
-    'dj_rest_auth',
+    # 'dj_rest_auth',
     'django.contrib.sites',
     'allauth',
     'allauth.account',
     'allauth.socialaccount',
-    'dj_rest_auth.registration',
+    # 'dj_rest_auth.registration',
     'allauth.socialaccount.providers.google',
     
     #APP
@@ -181,17 +181,17 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/5.1/howto/static-files/
 
+STATIC_ROOT = BASE_DIR / 'static'
 STATIC_URL = '/static/'
-# STATIC_URL = BASE_DIR / 'staticfiles'
-MEDIA_ROOT = os.path.join(os.path.dirname(BASE_DIR), 'media')
+MEDIA_ROOT = BASE_DIR / 'media'
 MEDIA_URL = '/media/'
 
 # URL used to access the media
-# Default primary key field type
+# # Default primary key field type
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
-ALLOWED_HOSTS = config('ALLOWED_HOSTS', '127.0.0.1').split(',')
+ALLOWED_HOSTS = config('ALLOWED_HOSTS', '127.0.0.1',).split(',')
 
 AUTH_USER_MODEL = 'useracc.User'
 

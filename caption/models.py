@@ -9,7 +9,6 @@ def caption_directory_path(instance, filename):
         username = instance.uid.username  # Ambil username dari user
     else:
         username = "unknown_user"
-    
     ext = filename.split('.')[-1]
     base_filename = slugify(username)
     new_filename = f"{base_filename}.{ext}"

@@ -1,20 +1,13 @@
-from rest_framework import serializers, exceptions
-from allauth.account.adapter import get_adapter
-from allauth.account.models import EmailAddressManager, EmailAddress
-from allauth.socialaccount.models import SocialAccount
-from allauth.socialaccount.adapter import get_adapter as social_get_adapter
-from django.utils.translation import gettext_lazy as _
-from django.contrib.auth import authenticate
-
-from Descripix import settings
-from .models import User
-from allauth.account.utils import setup_user_email
-from rest_framework_simplejwt.serializers import TokenObtainPairSerializer
 import os
-from django.contrib.auth import get_user_model
-from datetime import date
-from . import google
+from Descripix import settings
+from rest_framework import serializers, exceptions
 from rest_framework.exceptions import AuthenticationFailed
+from allauth.account.adapter import get_adapter
+from allauth.account.models import EmailAddress
+from allauth.socialaccount.models import SocialAccount
+from .models import User
+from . import google
+from datetime import date
 import random
 
 class GoogleSocialAuthSerializer(serializers.Serializer):
@@ -80,7 +73,6 @@ class GoogleSocialAuthSerializer(serializers.Serializer):
 
             else:
                 raise AuthenticationFailed('Social account does not match with user')
-
         else:
             print("new_user")
 

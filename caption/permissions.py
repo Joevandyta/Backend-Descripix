@@ -13,11 +13,8 @@ class IsGuestandAuthenticate(BasePermission):
         auth_header = request.headers.get('Authorization', '')
 
         guestToken = config('GUEST_TOKEN')
-        # Guest token bypass
-        print(auth_header)
 
         if auth_header == f"Bearer {guestToken}":
-            print("Guest user successfully.")
             return True
         elif auth_header.startswith("Bearer "):
             jwt_auth = JWTAuthentication()
@@ -25,8 +22,6 @@ class IsGuestandAuthenticate(BasePermission):
                 raw_token = auth_header.split()[1]
                 validated_token = jwt_auth.get_validated_token(raw_token)
                 request.user = jwt_auth.get_user(validated_token)
-                print("Authenticated User successfully.")
- 
                 return True
             except (InvalidToken, TokenError):
                 return False

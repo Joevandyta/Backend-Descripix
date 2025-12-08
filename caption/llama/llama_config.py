@@ -28,7 +28,6 @@ client = Groq(api_key=groq_api_key)
 
 # Fungsi untuk menghasilkan caption dari gambar + metadata
 def getCaption(image_url, metadata, language_code, style):
-    print(f"Language Code: {language_code}")
     if language_code == 'id':
         instructions = read_instruction(file_path_id)
 
@@ -80,13 +79,11 @@ def getCaption(image_url, metadata, language_code, style):
         finalMetadata = f"{instructions_metadata}\n{metadata_str}"
 
         final_instructions = f"{instructions} {finalMetadata} {prompt_parts}"
-        # final_instructions = f"{instructions} {finalMetadata}"
 
     else:
         final_instructions = f"{instructions} {prompt_parts}"
     
 
-    print("Final Instructions:", final_instructions)
     # Encode gambar ke base64
     base64_image = encode_image(image_url)
     completion = client.chat.completions.create(

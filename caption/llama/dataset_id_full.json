@@ -1,6 +1,26 @@
 [
   {
     "input": [
+      "Author: Manto",
+      "Date Taken: 5 Juli 2024, 06:30",
+      "Location: 77V7+8CQ, Jl. Setapak, Sanur, Denpasar Selatan, Bali",
+      "Device: Sony",
+      "Model: Alpha 7 III"
+    ],
+    "output": "Pagi tenang di Pantai Sanur, Denpasar. Diabadikan oleh Manto pada 5 Juli 2024 menggunakan Sony Alpha 7 III."
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken: 5 Juli 2024, 06:30",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Pagi tenang dipantai yang indah, pada tanggal 5 Juli 2024"
+  },
+  {
+    "input": [
       "Author: Wawan",
       "Date Taken: 6 Juni 2023, 13:15",
       "Location: Jl. Pantai Kerobokan, Kerobokan, Kec. Sawan, Kabupaten Buleleng, Bali 81119",
@@ -8,6 +28,16 @@
       "Model: EOS 90D"
     ],
     "output": "Suasana siang hari di Pantai Kerobokan, Buleleng dengan kapal-kapal nelayan yang baru kembali. Diabadikan oleh Wawan pada 6 Juni 2023 menggunakan Canon EOS 90D."
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken:",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Sebuah suasana pantai di Siang hari dengan langit biru yang tenang dan tiga kapal nelayan yang baru pulang menangkap ikan"
   },
   {
     "input": [
@@ -31,6 +61,46 @@
   },
   {
     "input": [
+      "Author: ",
+      "Date Taken:",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "lucu bgtttt kucingnya"
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken:",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Senja mengingatkan ku kepada seorang"
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken:",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Ruang yang nyaman di mana saya dapat bernapas dengan tenang"
+  },
+  {
+    "input": [
+      "Author: Andi",
+      "Date Taken: 9 Februari 2025, 08:30",
+      "Location: 2G8R+QX Dalisodo, Malang Regency, East Java",
+      "Device: Canon",
+      "Model: EOS 90D"
+    ],
+    "output": "Ruang yang nyaman di mana orang dapat bernapas dengan tenang, dipotret oleh Andi di Dalisodo, Malang, Jawa Timur menggunakan Canon EOS 90D"
+  },
+  {
+    "input": [
       "Author: Jovan",
       "Date Taken: 12 Mei 2024, 19:05",
       "Location: Singaraja, Bali",
@@ -38,6 +108,16 @@
       "Model: Poco F4"
     ],
     "output": "Momentum sederhana seperti makan bersama, diabadikan oleh Jovan pada 12 Mei 2024 pukul 19:05 di Warung Makan Sari Sedap, Singaraja, Bali menggunakan Xiaomi Poco F4"
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken: ",
+      "Location: C7FQ+VH Kemenuh, Gianyar Regency, Bali",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Suara air terjun dan view yang menenangkan di Gianyar, Bali."
   },
   {
     "input": [
@@ -61,6 +141,26 @@
   },
   {
     "input": [
+      "Author: ",
+      "Date Taken: ",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Nostalgia dengan suasana yang menakjubkan."
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken: ",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "sunset membawa banyak kenangan."
+  },
+  {
+    "input": [
       "Author: Hanif",
       "Date Taken: 5 April 2024, 08:10",
       "Location: H79H+8P Tegallalang, Gianyar Regency, Bali",
@@ -68,6 +168,16 @@
       "Model: Galaxy S22"
     ],
     "output": "Hanif mengambil gambar pemandangan area pesawahan yang asri dengan langit cerah pada 5 April 2024 pukul 08:10 di Tegallalang, Gianyar, Bali menggunakan Samsung Galaxy S22"
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken: ",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Ruang yang nyaman di mana saya dapat bernapas dengan tenang."
   },
   {
     "input": [
@@ -131,6 +241,26 @@
   },
   {
     "input": [
+      "Author: Clara",
+      "Date Taken: ",
+      "Location: P3WH+FM Munduk, Buleleng Regency, Bali",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Keindahan air terjun di pegunungan yang mempesona, di Munduk, Buleleng, Bali diabadikan oleh Clara"
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken: ",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Mandi dikolam renang dulu cuy."
+  },
+  {
+    "input": [
       "Author: Maya",
       "Date Taken: 28 Agustus 2024, 13:40",
       "Location: Seminyak, Badung, Bali",
@@ -138,6 +268,16 @@
       "Model: Alpha 7 IV"
     ],
     "output": "Suasana santai di area pemandian hotel berkonsep outdoor, diabadikan oleh Maya pada 28 Agustus 2024 pukul 13:40 di Seminyak, Badung, Bali menggunakan Sony Alpha 7 IV"
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken: ",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Waktunya makan!!! Ramen."
   },
   {
     "input": [
@@ -158,6 +298,16 @@
       "Model: Alpha 7 IV"
     ],
     "output": "Suasana santai di area pemandian hotel berkonsep outdoor, diabadikan pada 28 Agustus 2024 pukul 13:40 menggunakan Sony Alpha 7 IV"
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken: ",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Makan enak dulu bang."
   },
   {
     "input": [
@@ -191,6 +341,36 @@
   },
   {
     "input": [
+      "Author: ",
+      "Date Taken: ",
+      "Location: ",
+      "Device: Redmi",
+      "Model: "
+    ],
+    "output": "Pagi hari di tempat yang nyaman diabadikan menggunakan Redmi"
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken: ",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Spot ternyaman untuk berkumpul bersama teman. Tersedia seating area menggunakan kursi besi, sofa empuk, hingga area duduk berkapasitas besar"
+  },
+  {
+    "input": [
+      "Author: Jidan",
+      "Date Taken: ",
+      "Location: Canggu, Badung, Bali",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Jidan memotret tempat dengan spot ternyaman untuk berkumpul bersama teman. Tersedia seating area menggunakan kursi besi, sofa empuk, hingga area duduk berkapasitas besar di Canggu, Badung, Bali"
+  },
+  {
+    "input": [
       "Author: Hartawan",
       "Date Taken: 3 Agustus 2024, 16:30",
       "Location: Canggu, Badung, Bali",
@@ -221,6 +401,16 @@
   },
   {
     "input": [
+      "Author: ",
+      "Date Taken: ",
+      "Location: V3PH+3V Singaraja, Buleleng Regency, Bali",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Sebuah apel dalam genggaman di Singaraja, Buleleng, Bali"
+  },
+  {
+    "input": [
       "Author: Rin",
       "Date Taken: 25 Oktober 2024, 10:15",
       "Location: W459+27 Penarukan, Buleleng Regency, Bali",
@@ -243,11 +433,31 @@
     "input": [
       "Author: Satria",
       "Date Taken: 18 Januari 2024, 18:10",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Matahari tenggelam difoto oleh Satria pada 18 Januari 2024"
+  },
+  {
+    "input": [
+      "Author: Satria",
+      "Date Taken: 18 Januari 2024, 18:10",
       "Location: W499+7C Kerobokan, Buleleng Regency, Bali",
       "Device: ",
       "Model: "
     ],
     "output": "Matahari tenggelam dipantai di daerah Kerobokan, Buleleng, Bali difoto oleh Satria pada 18 Januari 2024"
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken: ",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Berenang renang ketepian, refreshing dulu kawan"
   },
   {
     "input": [
@@ -321,6 +531,26 @@
   },
   {
     "input": [
+      "Author: ",
+      "Date Taken: 2 agustus 2024, 20:30",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Sepasang kekasih menikmati indahnya malam pada 2 agustus 2024"
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken: ",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Begitu indah, melihat matahari terbenam selalu membuat saya merasa lebih baik"
+  },
+  {
+    "input": [
       "Author: Raka",
       "Date Taken: 2 September 2024, 20:30",
       "Location: Lovina, Buleleng, Bali",
@@ -341,6 +571,16 @@
   },
   {
     "input": [
+      "Author: Damar",
+      "Date Taken: 2 agustus 2024, 20:30",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Damar mengabadikan sepasang kekasih menikmati indahnya malam pada 2 agustus 2024"
+  },
+  {
+    "input": [
       "Author: ",
       "Date Taken: 6 Agustus 2025, 12:15",
       "Location: ",
@@ -348,5 +588,15 @@
       "Model: Galaxy S24 Ultra"
     ],
     "output": "Momen santai menikmati makan enak di siang hari pada 6 Agustus 2025, diabadikan menggunakan Samsung Galaxy S24 Ultra"
+  },
+  {
+    "input": [
+      "Author: ",
+      "Date Taken: ",
+      "Location: ",
+      "Device: ",
+      "Model: "
+    ],
+    "output": "Makan santai dulu"
   }
 ]

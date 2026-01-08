@@ -28,10 +28,9 @@ class CaptionResult(models.Model):
     uid = models.ForeignKey(User, on_delete=models.CASCADE, null=False)
     author = models.CharField(max_length=100, blank=True, null=True)
     date = models.CharField(max_length=100, null=True)
-    location = models.CharField(max_length=100, blank=True, null=True)
+    location = models.CharField(max_length=255, blank=True, null=True)
     device = models.CharField(max_length=100, blank=True, null=True)
     model = models.CharField(max_length=100, blank=True, null=True)
 
     def __str__(self):
         return self.caption
-    

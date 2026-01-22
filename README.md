@@ -57,23 +57,23 @@ Authorization: Bearer <your_access_token>
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
-| `POST` | `/auth/google-login/` | OAuth login (Google) |
-| `POST` | `/auth/logout/` | Logout user session |
-| `POST` | `/auth/token-refresh/` | Refresh access token |
-| `POST` | `/auth/token-verify/` | Verify token validity |
-| `GET` | `/auth/user-detail/` | Get user profile |
-| `PUT` | `/auth/user-edit/` | Update user profile |
+| `POST` | `{{baseURL}}/auth/google-login/` | OAuth login (Google) |
+| `POST` | `{{baseURL}}/auth/logout/` | Logout user session |
+| `POST` | `{{baseURL}}/auth/token-refresh/` | Refresh access token |
+| `POST` | `{{baseURL}}/auth/token-verify/` | Verify token validity |
+| `GET` | `{{baseURL}}/auth/user-detail/` | Get user profile |
+| `PUT` | `{{baseURL}}/auth/user-edit/` | Update user profile |
 
 ### 📝 Caption Management
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
-| `POST` | `/caption/generate/` | Generate AI captions from image |
-| `POST` | `/caption/save/` | Save caption with metadata |
-| `GET` | `/caption/list/` | List all user captions |
-| `GET` | `/caption/detail/?id={id}` | View specific caption details |
-| `PUT` | `/caption/detail/` | Edit existing caption |
-| `DELETE` | `/caption/detail/?id={id}` | Delete caption |
+| `POST` | `{{baseURL}}/caption/generate/` | Generate AI captions from image |
+| `POST` | `{{baseURL}}/caption/save/` | Save caption with metadata |
+| `GET` | `{{baseURL}}/caption/list/` | List all user captions |
+| `GET` | `{{baseURL}}/caption/detail/?id={id}` | View specific caption details |
+| `PUT` | `{{baseURL}}/caption/detail/` | Edit existing caption |
+| `DELETE` | `{{baseURL}}/caption/detail/?id={id}` | Delete caption |
 
 ## Getting Started
 

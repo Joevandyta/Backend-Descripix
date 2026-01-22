@@ -57,8 +57,8 @@ Authorization: Bearer <your_access_token>
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
-| `POST` | `/auth/oauth/login/` | OAuth login (Google) |
-| `POST` | `/auth/login/` | Logout user session |
+| `POST` | `/auth/google-login/` | OAuth login (Google) |
+| `POST` | `/auth/logout/` | Logout user session |
 | `POST` | `/auth/token-refresh/` | Refresh access token |
 | `POST` | `/auth/token-verify/` | Verify token validity |
 | `GET` | `/auth/user-detail/` | Get user profile |

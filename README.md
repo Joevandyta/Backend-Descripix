@@ -51,6 +51,30 @@ Authorization: Bearer <your_access_token>
 - **Edit Captions** - Update existing caption information
 - **Delete Captions** - Remove captions from the system
 
+## API Endpoints
+
+### 🔐 Authentication & User Management
+
+| Method | Endpoint | Description |
+|--------|----------|-------------|
+| `POST` | `/auth/oauth/login/` | OAuth login (Google) |
+| `POST` | `/auth/login/` | Logout user session |
+| `POST` | `/auth/token-refresh/` | Refresh access token |
+| `POST` | `/auth/token-verify/` | Verify token validity |
+| `GET` | `/auth/user-detail/` | Get user profile |
+| `PUT` | `/auth/user-edit/` | Update user profile |
+
+### 📝 Caption Management
+
+| Method | Endpoint | Description |
+|--------|----------|-------------|
+| `POST` | `/caption/generate/` | Generate AI captions from image |
+| `POST` | `/caption/save/` | Save caption with metadata |
+| `GET` | `/caption/list/` | List all user captions |
+| `GET` | `/caption/detail/?id={id}` | View specific caption details |
+| `PUT` | `/caption/detail/` | Edit existing caption |
+| `DELETE` | `/caption/detail/?id={id}` | Delete caption |
+
 ## Getting Started
 
 1. **Set up your environment**: Configure the `{{baseURL}}` variable with your API endpoint
